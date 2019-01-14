@@ -45,8 +45,11 @@
 
 ## Outreach
 - [Rainbow Quantum Computing](https://www.youtube.com/watch?v=_idWiyj6dRg)
+    - Submission to *NSERC Science, Action* Video Contest to promote cutting-edge science in Canada to the general public 
 - [Quantum Frequency Combs](https://www.youtube.com/watch?v=x5O7I0TZRik&t=5s)
+    - media release video to [accompany research published in *Nature* by the Nonlinear Photonics Group](https://www.nature.com/articles/nature22986), demonstrating the experimental work on high-dimensional, frequency-bin quantum states
 - [Quantum State Tomography](https://www.youtube.com/watch?v=JpJZmi-JRGY)
+    - brief animation to explain the steps in quantum state tomography, used as a visual aid for invited talks
 
 ## Volunteer Positions
 - **Vice-President**, IEEE/OSA/SPIE Student Chapter, *INRS-EMT*
@@ -55,10 +58,10 @@
 
 # Open Source Projects
 * **[OCT Image Reconstruction Software](https://github.com/benjimaclellan/OCT-Image-Reconstruction)**
-    - a small example of the reconstruction algorithms used in Dr. Bizheva's Optical Biomedical Imaging Group at the University of Waterloo. The **[project]**(https://github.com/benjimaclellan/OCT-Image-Reconstruction) uses Python and is still under development.
+    - a small example of the reconstruction algorithms used in Dr. Bizheva's Optical Biomedical Imaging Group at the University of Waterloo. The **[project](https://github.com/benjimaclellan/OCT-Image-Reconstruction)** uses Python and is still under development.
 
 * **[Monte-Carlo Simulation of a Protein Folding Model](https://github.com/benjimaclellan/Protein-Folding-Toy-Model)**
-    - a short, fun project which used a Monte-Carlo algorithm to simulate the folding of a simple H-P protein model. There is a Jupyter Notebook which steps through the code **[here]**(https://github.com/benjimaclellan/Protein-Folding-Toy-Model/blob/master/protein-folding-tutorial.ipynb)
+    - a short, fun project which used a Monte-Carlo algorithm to simulate the folding of a simple H-P protein model. There is a Jupyter Notebook which steps through the code **[here](https://github.com/benjimaclellan/Protein-Folding-Toy-Model/blob/master/protein-folding-tutorial.ipynb)**.
 
 * **[Mini-Bescherelle](https://github.com/benjimaclellan/Mini-Bescherelle)**
     - LaTeX template for creating a small bescherelle of common French verbs and their conjugations
@@ -66,6 +69,13 @@
 ## Links
 - **LinkedIn**: *[https://www.linkedin.com/in/benjaminmaclellan/](https://www.linkedin.com/in/benjaminmaclellan/)*
 - **ResearchGate**: *[https://www.researchgate.net/profile/Benjamin_Maclellan2](https://www.researchgate.net/profile/Benjamin_Maclellan2)*
+
+
+## Skills
+- **Programming**: Python, MATLAB, C++
+- **Media**: Blender (3D Animation), Adobe Illustrator, Adobe Photoshop, GIMP, Inkscape
+- **Linguistics**: English, French
+
 
 ## Affiliations
 1. L'Institut National de la Recherche Scientifique, Énergie, Matériaux et Télécommunications, Nonlinear Photonics Group (Prof. Morandotti)
