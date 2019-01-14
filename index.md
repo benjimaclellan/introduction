@@ -1,5 +1,4 @@
-#
-
+# ~
 ## Education
 * **M.Sc. in Energy and Materials Science**, *l'Institut National de la Recherche Scientifique, Nonlinear Photonics Group*
     - research topics include using machine learning techniques to develop new experiments in optical signal processing, as well as quantum photonics
