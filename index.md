@@ -1,13 +1,13 @@
 # Education
 * M.Sc. in Energy and Materials Science, l'Institut National de la Recherche Scientifique, Nonlinear Photonics Group
- - supervised by Prof. Morandotti
- - research topics include using machine learning techniques to develop new experiments in optical signal processing, as well as quantum photonics
+    - supervised by Prof. Morandotti
+    - research topics include using machine learning techniques to develop new experiments in optical signal processing, as well as quantum photonics
 * B.Sc. in Honours Physics, University of Waterloo
- - Minor in Biophysics and Specialization in Applied Physics
+    - Minor in Biophysics and Specialization in Applied Physics
 
 # Research Experience
 * L'Institut National de la Recherche Scientifique, Nonlinear Photonics Group
- - investigated the use of electro-optic phase modulation to control high-dimensional quantum states
+    - investigated the use of electro-optic phase modulation to control high-dimensional quantum states
 
 # Publications
 1. **[Generation and Manipulation of Coherent Quantum Frequency Combs](https://www.jove.com/video/57517/generation-and-coherent-control-of-pulsed-quantum-frequency-combs)**
