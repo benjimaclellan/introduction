@@ -1,11 +1,16 @@
 # Education
-### M.Sc. in Energy and Materials Science, l'Institut National de la Recherche Scientifique, Nonlinear Photonics Group
+* M.Sc. in Energy and Materials Science, l'Institut National de la Recherche Scientifique, Nonlinear Photonics Group
+ - supervised by Prof. Morandotti
+ - research topics include using machine learning techniques to develop new experiments in optical signal processing, as well as quantum photonics
+* B.Sc. in Honours Physics, University of Waterloo
+ - Minor in Biophysics and Specialization in Applied Physics
 
-### B.Sc. in Honours Physics, Minor in Biophysics, University of Waterloo
- 
+# Research Experience
+* L'Institut National de la Recherche Scientifique, Nonlinear Photonics Group
+ - investigated the use of electro-optic phase modulation to control high-dimensional quantum states
 
 # Publications
-1. **[Generation and Manipulation of Coherent Quantum Frequency Combs]**(https://www.jove.com/video/57517/generation-and-coherent-control-of-pulsed-quantum-frequency-combs)
+1. **[Generation and Manipulation of Coherent Quantum Frequency Combs](https://www.jove.com/video/57517/generation-and-coherent-control-of-pulsed-quantum-frequency-combs)**
 2. In vivo imaging and morphometry of the human pre-Descemet’s layer and endothelium with ultrahigh-resolution optical coherence tomography
 3. In-vivo imaging of the palisades of Vogt and the limbal crypts with sub-micrometer axial resolution optical coherence tomography
 4. Structural, functional and blood perfusion changes in the rat retina associated with elevated intraocular pressure, measured simultaneously with a combined OCT+ERG system
@@ -25,7 +30,7 @@ A small example of the reconstruction algorithms used in Dr. Bizheva's Optical B
 A short, fun project which used a Monte-Carlo algorithm to simulate the folding of a simple H-P protein model. There is a Jupyter Notebook which steps through the code **[here]**(https://github.com/benjimaclellan/Protein-Folding-Toy-Model/blob/master/protein-folding-tutorial.ipynb)
 
 # Outreach
-
+- [Quantum Frequency Combs](https://www.youtube.com/watch?v=x5O7I0TZRik&t=5s)
 
 ## Affiliations
 1. INRS-EMT
