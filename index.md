@@ -1,4 +1,6 @@
-# Education
+#
+
+## Education
 * **M.Sc. in Energy and Materials Science**, *l'Institut National de la Recherche Scientifique, Nonlinear Photonics Group*
     - research topics include using machine learning techniques to develop new experiments in optical signal processing, as well as quantum photonics
     - funded by NSERC CGS-M Scholarship and INRS-EMT Lionel-Boulet Scholarship
@@ -7,7 +9,7 @@
     - Minor in Biophysics and Specialization in Applied Physics
     - studies directed to optics, quantum mechanics, and quantum information processing
 
-# Research Experience
+## Research Experience
 * **Nonlinear Photonics Group** (Prof. Morandotti), *L'Institut National de la Recherche Scientifique*
     - investigated the use of electro-optic phase modulation to control high-dimensional quantum states, through the support of an NSERC USRA Scholarship
 
@@ -21,7 +23,7 @@
 * **Optical Engineering Team**, *Magna Autosystems*
     - planned and implemented long-term studies into production capabilities for automotive lighting
 
-# Publications
+## Publications
 1. MacLellan, B., Roztocki, P., Kues, M., Reimer, C., Cortés, R., L., … Morandotti, R. (2018). **[Generation and Manipulation of Coherent Quantum Frequency Combs](https://www.jove.com/video/57517/generation-and-coherent-control-of-pulsed-quantum-frequency-combs)**. *Journal of Visualized Experiment*, e57517, 136. https://doi:10.3791/57517
 
 2. Bizheva, K., Haines, L., Mason, E., MacLellan, B., Tan, B., Hileeto, D., & Sorbara, L. (2016). **[In vivo imaging and morphometry of the human pre-Descemet’s layer and endothelium with ultrahigh-resolution optical coherence tomography](https://doi.org/10.1167/iovs.15-18936)**. *Investigative Ophthalmology and Visual Science*, 57(6). https://doi.org/10.1167/iovs.15-18936
@@ -35,18 +37,18 @@
 6. Tan, B., Mason, E., MacLellan, B., & Bizheva, K. K. (2017). **[Correlation of visually evoked functional and blood flow changes in the rat retina measured with a combined OCT+ERG system](https://iovs.arvojournals.org/article.aspx?articleid=2613127)**. *Investigative Ophthalmology and Visual Science*, 58(3). https://doi.org/10.1167/iovs.17-21543
 
 
-# Conferences
+## Conferences
 1. B. MacLellan, P. Roztocki, M. Kues, C. Reimer, R. Morandotti; **“Quantum Frequency Combs”** *Canadian Undergraduate Physics Conference*; 2017 
 
 2. B. MacLellan, B. Tan, K. Bizheva; **“Structural and vasculature changes in the rat retina from elevated IOP using ultra high resolution OCT”** *Canadian Undergraduate Physics Conference*; 2016
 
 
-# Outreach
+## Outreach
 - [Rainbow Quantum Computing](https://www.youtube.com/watch?v=_idWiyj6dRg)
 - [Quantum Frequency Combs](https://www.youtube.com/watch?v=x5O7I0TZRik&t=5s)
 - [Quantum State Tomography](https://www.youtube.com/watch?v=JpJZmi-JRGY)
 
-# Volunteer Positions
+## Volunteer Positions
 - **Vice-President**, IEEE/OSA/SPIE Student Chapter, *INRS-EMT*
 - **Physics/Mathematical Physics Team Lead**, Science Ambassador Team, *University of Waterloo*
 
@@ -61,7 +63,14 @@
 * **[Mini-Bescherelle](https://github.com/benjimaclellan/Mini-Bescherelle)**
     - LaTeX template for creating a small bescherelle of common French verbs and their conjugations
  
+## Links
+- **LinkedIn**: *[https://www.linkedin.com/in/benjaminmaclellan/](https://www.linkedin.com/in/benjaminmaclellan/)*
+- **ResearchGate**: *[https://www.researchgate.net/profile/Benjamin_Maclellan2](https://www.researchgate.net/profile/Benjamin_Maclellan2)*
 
 ## Affiliations
 1. L'Institut National de la Recherche Scientifique, Énergie, Matériaux et Télécommunications, Nonlinear Photonics Group (Prof. Morandotti)
 2. University of Waterloo, Department of Physics and Astronomy
+
+## Contact
+**Email**: benjamin.maclellan@emt.inrs.ca
+
