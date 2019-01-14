@@ -1,25 +1,24 @@
 # Education
-* M.Sc. in Energy and Materials Science, l'Institut National de la Recherche Scientifique, Nonlinear Photonics Group
-    - supervised by Prof. Morandotti
+* **M.Sc. in Energy and Materials Science**, *l'Institut National de la Recherche Scientifique, Nonlinear Photonics Group*
     - research topics include using machine learning techniques to develop new experiments in optical signal processing, as well as quantum photonics
     - funded by NSERC CGS-M Scholarship and INRS-EMT Lionel-Boulet Scholarship
     
-* B.Sc. in Honours Physics, University of Waterloo
+* **B.Sc. in Honours Physics**, *University of Waterloo*
     - Minor in Biophysics and Specialization in Applied Physics
     - studies directed to optics, quantum mechanics, and quantum information processing
 
 # Research Experience
-* L'Institut National de la Recherche Scientifique, Nonlinear Photonics Group (Prof. Morandotti)
+* **Nonlinear Photonics Group** (Prof. Morandotti), *L'Institut National de la Recherche Scientifique*
     - investigated the use of electro-optic phase modulation to control high-dimensional quantum states, through the support of an NSERC USRA Scholarship
 
-* University of Waterloo, Nano-Photonic and Quantum Optics Group (Dr. Bajcsy)
+* **Nano-Photonic and Quantum Optics Group** (Dr. Bajcsy), *University of Waterloo*
     - initial development into a digital holographic microscope for the characterization of metamaterials developed by the group
 
-* University of Waterloo, Optical Biomedical Imaging Group (Dr. Bizheva)
+* **Optical Biomedical Imaging Group** (Dr. Bizheva), *University of Waterloo*
     - assisted in the development ultra-high resolution Optical Coherence Tomography (OCT) systems
     - implemented image reconstruction algorithms to extract new and useful information from OCT data
     
-* Magna Autosystems, Optical Engineering Team
+* **Optical Engineering Team**, *Magna Autosystems*
     - planned and implemented long-term studies into production capabilities for automotive lighting
 
 # Publications
@@ -39,7 +38,18 @@
 # Conferences
 1. B. MacLellan, P. Roztocki, M. Kues, C. Reimer, R. Morandotti; **“Quantum Frequency Combs”** *Canadian Undergraduate Physics Conference*; 2017 
 
-B. MacLellan, B. Tan, K. Bizheva; **“Structural and vasculature changes in the rat retina from elevated IOP using ultra high resolution OCT”** *Canadian Undergraduate Physics Conference*; 2016
+2. B. MacLellan, B. Tan, K. Bizheva; **“Structural and vasculature changes in the rat retina from elevated IOP using ultra high resolution OCT”** *Canadian Undergraduate Physics Conference*; 2016
+
+
+# Outreach
+- [Rainbow Quantum Computing](https://www.youtube.com/watch?v=_idWiyj6dRg)
+- [Quantum Frequency Combs](https://www.youtube.com/watch?v=x5O7I0TZRik&t=5s)
+- [Quantum State Tomography](https://www.youtube.com/watch?v=JpJZmi-JRGY)
+
+# Volunteer Positions
+- **Vice-President**, IEEE/OSA/SPIE Student Chapter, *INRS-EMT*
+- **Physics/Mathematical Physics Team Lead**, Science Ambassador Team, *University of Waterloo*
+
 
 # Open Source Projects
 * **[OCT Image Reconstruction Software](https://github.com/benjimaclellan/OCT-Image-Reconstruction)**
@@ -51,11 +61,6 @@ B. MacLellan, B. Tan, K. Bizheva; **“Structural and vasculature changes in the
 * **[Mini-Bescherelle](https://github.com/benjimaclellan/Mini-Bescherelle)**
     - LaTeX template for creating a small bescherelle of common French verbs and their conjugations
  
-
-# Outreach
-- [Rainbow Quantum Computing](https://www.youtube.com/watch?v=_idWiyj6dRg)
-- [Quantum Frequency Combs](https://www.youtube.com/watch?v=x5O7I0TZRik&t=5s)
-- [Quantum State Tomography](https://www.youtube.com/watch?v=JpJZmi-JRGY)
 
 ## Affiliations
 1. L'Institut National de la Recherche Scientifique, Énergie, Matériaux et Télécommunications, Nonlinear Photonics Group (Prof. Morandotti)
